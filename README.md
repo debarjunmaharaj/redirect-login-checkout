@@ -38,5 +38,6 @@ We welcome contributions! Feel free to fork the repository and submit a pull req
 For issues or feature requests, please open an [issue on GitHub](#).
 
 ## License
+This plugin is licensed under the **GPL-2.0 or later**.  
+See the [LICENSE](LICENSE) file for details.
 
-This plugin is licensed under the [GPL-2.0 License](https://www.gnu.org/licenses/gpl-2.0.html).
